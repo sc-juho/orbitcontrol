@@ -1,5 +1,7 @@
-orbitcontrol
-============
+orbitcontrol (deprecated)
+=========================
+
+Note: This project is very much deprecated. This proved to be quite successful and it ended up scheduling around one million container in a heavy production environment. However Kubernetes has proven to be a superior platform, so this project has absolutely no use anymore.
 
 Orbit Control is a toolset to run containers in distributed set of machines, dynamically configure haproxies and run health checks for services.
 
